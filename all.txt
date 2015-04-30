@@ -1,0 +1,2 @@
+Hello.
+Please, tell me if you still can see inside the file 'all.txt'.
